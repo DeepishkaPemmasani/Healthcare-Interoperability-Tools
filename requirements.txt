@@ -1,0 +1,33 @@
+# Healthcare Interoperability Tools - Dependencies
+
+# HL7 Processing
+hl7==0.4.5
+
+# XML/XPath Processing for CCD
+lxml==4.9.3
+
+# Data Processing and Analysis
+pandas==2.0.3
+numpy==1.24.3
+
+# Testing Framework
+pytest==7.4.2
+pytest-cov==4.1.0
+
+# Code Quality
+flake8==6.0.0
+black==23.7.0
+
+# Documentation
+sphinx==7.1.2
+sphinx-rtd-theme==1.3.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
+# Development Dependencies (Optional)
+# Uncomment if needed for development
+# jupyter==1.0.0
+# matplotlib==3.7.2
+# seaborn==0.12.2
